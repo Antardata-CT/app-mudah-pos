@@ -1,7 +1,13 @@
 {
+  "web": {
+    "version": "0.1",
+    "force_refresh": true
+  },
+  "mobile": {
     "version": "0.0",
     "build": 0,
     "downlaod_url": "https://github.com/Antardata-CT/app-mudah-pos/releases/download/0.0/Mudah.POS.v0.0.apk",
     "force_update": true,
     "realese_notes": "Pengembangan aplikasi Mudah POS v0.0"
+  }
 }
