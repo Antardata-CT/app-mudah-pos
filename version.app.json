@@ -7,7 +7,7 @@
   "mobile": {
     "version": "0.0",
     "build": 0,
-    "downlaod_url": "https://github.com/Antardata-CT/app-mudah-pos/releases/download/0.0/Mudah.POS.v0.0.apk",
+    "downlaod_url": "https://github.com/Antardata-CT/app-mudah-pos/releases/download/0.1/Mudah.POS.0.1.apk",
     "force_update": true,
     "realese_notes": "Update fitur aplikasi"
   }
