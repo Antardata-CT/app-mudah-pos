@@ -1,13 +1,13 @@
 {
-  "id": "01kgsx4m3334xeezzrb8mfxe7r",
+  "id": "01kgt370yh2vzv4kr13qrfgyq8",
   "web": {
-    "version": "0.4",
+    "version": "0.5",
     "force_refresh": true
   },
   "mobile": {
-    "version": "0.1",
+    "version": "0.2",
     "build": 0,
-    "downlaod_url": "https://github.com/Antardata-CT/app-mudah-pos/releases/download/0.1/Mudah.POS.v0.1.apk",
+    "downlaod_url": "https://github.com/Antardata-CT/app-mudah-pos/releases/download/0.2/Mudah.POS.v0.2.apk",
     "force_update": true,
     "realese_notes": "Update fitur aplikasi"
   }
